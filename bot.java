@@ -8,10 +8,10 @@ import java.nio.charset.StandardCharsets;
 public class SimpleBot {
     
     // ВАШ ТОКЕН от @BotFather
-    private static final String TOKEN = "ВАШ_ТОКЕН";
+    private static final String TOKEN = "8478779827:AAHzfYkVsdWQrWccaRefsAU8GX743JvAKKo";
     
     // ВАШ Telegram ID
-    private static final String ADMIN_ID = "ВАШ_ID";
+    private static final String ADMIN_ID = "8161852887";
     
     private static final String API_URL = "https://api.telegram.org/bot" + TOKEN;
     private static long lastUpdateId = 0;

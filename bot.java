@@ -13,7 +13,7 @@ public class SimpleBot {
     // ВАШ Telegram ID
     private static final String ADMIN_ID = "8161852887";
     
-    private static final String API_URL = "https://api.telegram.org/bot" + TOKEN;
+    private static final String API_URL = "https://api.telegram.org/bot8478779827:AAHzfYkVsdWQrWccaRefsAU8GX743JvAKKo" + TOKEN;
     private static long lastUpdateId = 0;
     
     public static void main(String[] args) {
